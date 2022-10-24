@@ -1,0 +1,25 @@
+{
+  "name": "update-shipping-status",
+  "version": "1.0.0",
+  "description": "",
+  "main": "update-shipping-status.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billymitchell/brightsites-update-shipping-status.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/billymitchell/brightsites-update-shipping-status/issues"
+  },
+  "homepage": "https://github.com/billymitchell/brightsites-update-shipping-status#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+
+}
